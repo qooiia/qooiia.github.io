@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://qooiia.github.io/sitemap/sitemap.txt
